@@ -6640,7 +6640,7 @@ button.close {
   background-color: #006687;
 }
 .splash {
-  background-image: url(/img/bg.jpg);
+  background-image: url(../img/bg.jpg);
   -webkit-background-size: cover;
           background-size: cover;
   background-attachment: fixed;
@@ -6909,35 +6909,35 @@ input[type="checkbox"] {
   color: #222222;
 }
 .icon-journalism {
-  background: url(/img/icons/journalism.png) no-repeat;
+  background: url(../img/icons/journalism.png) no-repeat;
   background-color: transparent;
   width: 30px;
   height: 33px;
   display: inline-block;
 }
 .icon-data {
-  background: url(/img/icons/data.png) no-repeat;
+  background: url(../img/icons/data.png) no-repeat;
   background-color: transparent;
   width: 32px;
   height: 35px;
   display: inline-block;
 }
 .icon-datavis {
-  background: url(/img/icons/datavis.png) no-repeat;
+  background: url(../img/icons/datavis.png) no-repeat;
   background-color: transparent;
   width: 32px;
   height: 32px;
   display: inline-block;
 }
 .icon-smjournalism {
-  background: url(/img/icons/smjournalism.png) no-repeat;
+  background: url(../img/icons/smjournalism.png) no-repeat;
   background-color: transparent;
   width: 35px;
   height: 35px;
   display: inline-block;
 }
 .icon-toolkit {
-  background: url(/img/icons/toolkit.png) no-repeat;
+  background: url(../img/icons/toolkit.png) no-repeat;
   background-color: transparent;
   width: 25px;
   height: 30px;
