@@ -1088,7 +1088,7 @@ body {
   font-size: 15px;
   line-height: 1.4;
   color: #222222;
-  background-color: #ffffff;
+  background-color: #eaf1f1;
 }
 input,
 button,
@@ -1133,7 +1133,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.4;
-  background-color: #ffffff;
+  background-color: #eaf1f1;
   border: 1px solid #dddddd;
   border-radius: 0;
   -webkit-transition: all 0.2s ease-in-out;
@@ -2285,7 +2285,7 @@ th {
   border-top: 2px solid #dddddd;
 }
 .table .table {
-  background-color: #ffffff;
+  background-color: #eaf1f1;
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -3936,7 +3936,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #6f6f6f;
-  background-color: #ffffff;
+  background-color: #eaf1f1;
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -3982,7 +3982,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs.nav-justified > .active > a,
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #ffffff;
+    border-bottom-color: #eaf1f1;
   }
 }
 .nav-pills > li {
@@ -4050,7 +4050,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs-justified > .active > a,
   .nav-tabs-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus {
-    border-bottom-color: #ffffff;
+    border-bottom-color: #eaf1f1;
   }
 }
 .tab-content > .tab-pane {
@@ -4897,7 +4897,7 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 21px;
   line-height: 1.4;
-  background-color: #ffffff;
+  background-color: #eaf1f1;
   border: 1px solid #dddddd;
   border-radius: 0;
   -webkit-transition: border 0.2s ease-in-out;
@@ -6640,8 +6640,6 @@ button.close {
   background-color: #006687;
 }
 .splash {
-  padding: 9em 0 2em;
-  background-color: #141d27;
   background-image: url(/assets/img/bg.jpg);
   -webkit-background-size: cover;
           background-size: cover;
@@ -6654,6 +6652,9 @@ button.close {
 }
 .splash h1 {
   text-align: center;
+}
+.splash p {
+  padding: 0 24px;
 }
 .section-tout {
   padding: 4em 0 3em;
@@ -6951,4 +6952,7 @@ h4 {
 }
 footer {
   background-color: #eaf1f1;
+}
+.join-us {
+  background-color: #fff;
 }

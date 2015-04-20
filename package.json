@@ -22,5 +22,9 @@
     "grunt-contrib-less": "~0.9.0",
     "grunt-contrib-sass": "~0.7.4",
     "grunt-contrib-watch": "~0.5.1"
+  },
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "lru-cache": "^2.5.2"
   }
 }
